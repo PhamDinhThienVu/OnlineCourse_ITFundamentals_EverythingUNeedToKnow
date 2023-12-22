@@ -1,0 +1,165 @@
+Này các bạn, tất cả chúng ta đều biết rằng chúng ta nói các ngôn ngữ khác nhau trên thế giới, nhưng ngôn ngữ dành cho
+
+máy tính bây giờ là gì?
+
+Bạn sắp bước vào một tôi. t. , bạn thực sự nên biết cách máy tính đọc thông tin nhập của bạn từ bàn
+
+phím, ngôn ngữ mà máy tính của bạn nói.
+
+Và điều đó thật đơn giản.
+
+011 vậy.
+
+Máy tính không biết bất kỳ ngôn ngữ nào của con người, vì vậy chúng không biết tiếng Anh, tiếng
+
+Pháp, tiếng Trung hay bất kỳ ngôn ngữ nào cho vấn đề đó, nó chỉ hiểu các số không và một, ngôn ngữ máy tính là ngôn ngữ số không và một.
+
+Nó được gọi là cửa hàng máy tính nhị phân, tất cả các ký tự dưới dạng số trên đĩa cứng vì máy tính không biết xin chào
+
+hay bạn khỏe không là gì?
+
+Máy tính có chuyển đổi số đó thành các số, số 0 và số 1 này không và đó là cách nó lưu trữ số đó vào
+
+đĩa cứng.
+
+Quá trình chuyển đổi dữ liệu đó thành mã nhị phân được gọi là mã hóa.
+
+Bây giờ để hiểu rõ hơn, hãy hình dung nó ngay bây giờ.
+
+Số không và một đến từ đâu?
+
+Máy tính của bạn chạy bằng điện.
+
+Nếu bạn rút nguồn điện hoặc nếu máy tính xách tay của bạn hết pin, máy tính của bạn sẽ tắt.
+
+Đúng.
+
+Vì vậy, máy tính để truyền dữ liệu để lưu dữ liệu đó.
+
+Nó thực sự sử dụng số không và một và số không đó.
+
+Và một khái niệm đến từ điện không có nghĩa là tắt và một có nghĩa là bật.
+
+Vì vậy, con mắt này hoặc con mắt mà bạn có thể nhìn thấy trên công tắc của mình nếu bạn đi đến công tắc của mình ngay bây giờ hoặc nếu bạn
+
+có một công tắc cũ hơn, có thể là công tắc mới hơn, không còn con số 0 đó nữa.
+
+Nhưng nếu bạn tìm thấy một cái trong nhà, bạn sẽ nhìn kỹ vào nó và bạn sẽ thấy
+
+một cái ở trên cùng hoặc ở dưới cùng.
+
+Phụ thuộc vào quốc gia bạn đang ở.
+
+Vì vậy, cái đó có nghĩa là bật không có nghĩa là tắt nó đi.
+
+Vì vậy, tất cả chúng ta đều biết rằng công tắc đó hoạt động như thế nào.
+
+Tương tự như vậy, máy tính gửi hoặc lưu dữ liệu trên máy tính hoặc chuyển dữ liệu qua các số
+
+không và số một.
+
+Bây giờ, hãy tiếp tục, hãy đặt nó vào một ví dụ về cách nó có thể chuyển giải thưởng thành số không và số một.
+
+Có một biểu đồ được gọi là biểu đồ mã nhị phân biểu đồ từng chữ cái, chữ cái tiếng Anh mà
+
+chúng ta có một số hoặc số nhị phân đi kèm với nó.
+
+Vì vậy, giống như A có một không không không không không không một B có một không không không không một không, v.v.
+
+Vì vậy, bây giờ hãy giả sử nếu bạn nhập từ xin chào trên bàn phím bây giờ, hệ điều hành hoặc máy tính của bạn sẽ dịch
+
+từ đó sang bộ xử lý hoặc bộ nhớ của nó như thế nào, này, vầng hào quang này có nghĩa là các chữ số xử lý
+
+này.
+
+Vì vậy, điều đầu tiên bạn sẽ làm là chúng ta sẽ lấy đặc điểm đầu tiên H và bằng cách nhìn
+
+vào biểu đồ, bạn sẽ thấy H chuyển thành một không không một không không không.
+
+Có nghĩa là tắt, tắt, bật, tắt, tắt, tắt.
+
+Điều tương tự e dịch thành một không không không không một không một l l và O o một không không một một một một.
+
+Vì vậy, đó giống như một bảng gian lận mà máy tính có và máy tính biết rằng khi chữ H xuất hiện, chữ
+
+R E xuất hiện, tôi sẽ phải dịch sang hệ nhị phân.
+
+Và một lần nữa, bật và tắt nhị phân.
+
+Vì vậy, khi máy tính đặt tất cả các số này lại với nhau, nó thực sự sẽ gửi các tín hiệu này dưới dạng bật tắt bật
+
+tắt bật tắt.
+
+Và đó là cách nó thực sự dịch hoặc r di chuyển dữ liệu từ máy tính này sang máy tính khác, R từ bàn phím
+
+của bạn sang đĩa cứng.
+
+OK, tiếp tục, bây giờ hãy nói về ASCII.
+
+Bạn có thể đã nghe nói về ASCII.
+
+ASCII là gì?
+
+ASCII, trước hết là viết tắt của hoặc nó được phát âm là ASCII và nó là viết tắt của Mã tiêu
+
+chuẩn Mỹ cho thông tin và để trao đổi nó phân bổ một số cho mỗi chữ số và ký hiệu.
+
+Nó giống như một người trung gian hoặc người phiên dịch giữa các ký tự trên bàn phím của bạn và hệ nhị phân.
+
+Vì vậy, mọi ký tự mà bạn nhìn thấy trên bàn phím của mình chỉ là bàn phím.
+
+Ký tự đó có một số liên quan đến nó.
+
+Con số đó được chỉ định bởi Mã tiêu chuẩn Mỹ hoặc người ASCII.
+
+Thế là họ ngồi đó.
+
+Họ nói, bạn biết không, có rất nhiều máy tính mà chúng tôi đang xây dựng từ những năm 1960.
+
+Và họ họ giao tiếp với những cách khác nhau.
+
+Chúng ta cần đưa ra một tiêu chuẩn và họ đã đưa ra tiêu chuẩn này ngay bây giờ.
+
+Họ nói rằng chúng tôi sẽ gán số đó cho từng ký tự và sau đó số đó sẽ được dịch thành nhị
+
+phân.
+
+Vì vậy, hãy nhìn vào biểu đồ này.
+
+Bạn sẽ thấy các cột, số thập phân, nhị phân, bát phân hex và ASCII.
+
+Vì vậy, chúng tôi sẽ bao gồm hex trong một giây.
+
+Nhưng nếu bạn nhìn vào H trong H, thì, bạn trong bảng có mã ASCII là 72, vì vậy khoa học máy tính 72 và sau đó 72 được
+
+dịch thành hệ nhị phân, một lần nữa đó là những gì máy tính hiểu, không một không không
+
+một không không không không.
+
+OK, vậy là cô gái máy tính lớn dần theo thời gian, nó được giới thiệu ở nhiều quốc gia khác nhau, nhiều ngôn ngữ khác
+
+nhau.
+
+Vì vậy, có rất nhiều nhân vật đã được giới thiệu.
+
+Như bạn có thể tưởng tượng, có rất nhiều ngôn ngữ trên thế giới.
+
+Vì vậy, chúng là lần đầu tiên máy tính được giới thiệu.
+
+Tất nhiên, đó là một ngôn ngữ tiếng Anh và ABC.
+
+Vì vậy, họ không nghĩ rằng họ sẽ phải nghĩ ra nhiều cách dịch khác nhau.
+
+Vì vậy, họ đã nghĩ ra nhiều cách hơn và đó là Hecks.
+
+Vì vậy, nếu bạn đang gõ bằng tiếng Trung, một ký tự tiếng Trung có thể là một số được gán cho nó,
+
+giống như Hiệp hội Hoa Kỳ đã gán một số trong ASCII.
+
+Vì vậy, họ lấy hex chuyển đổi hex thành nhị phân.
+
+Được rồi, các bạn, đó là rất nhiều thông tin.
+
+Nhưng điểm chính mà tôi muốn bạn hiểu hoặc rút ra từ bài giảng này là máy tính chỉ
+
+hiểu hệ nhị phân và những hệ nhị phân đó là 0 và 1.

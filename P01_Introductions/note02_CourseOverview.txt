@@ -1,0 +1,125 @@
+Chào người đẹp.
+
+Hãy dành một vài phút để xem qua giáo trình khóa học của chúng tôi và hiểu chính xác những gì được bao gồm trong khóa học
+
+này, tôi đã chia khóa học này thành 14 phần khác nhau trong phần một.
+
+Chúng ta sẽ nói về phần giới thiệu về nó.
+
+Đó là ý nghĩa, tầm quan trọng.
+
+Và chúng ta sẽ nói về máy tính, máy tính, ngôn ngữ, số không và một.
+
+Tất cả chúng ta đều nói các ngôn ngữ khác nhau ở người, nhưng chúng ta trong máy tính không có ngôn ngữ nào như tiếng Anh hay tiếng
+
+Trung.
+
+Chúng ta sẽ nói chuyện không và một.
+
+Sau đó, mỗi phần sẽ có các câu đố và tài liệu phát tay.
+
+Chuyển sang Phần hai, là một thành phần của máy tính, chúng tôi sẽ đề cập một chút đến mọi
+
+máy tính của công ty, chẳng hạn như phần cứng, phần mềm, hệ điều hành, mạng ứng dụng, lưu trữ cơ sở dữ liệu,
+
+ảo hóa và bảo mật đám mây, bài tập về nhà và bài tập về nhà.
+
+Sau đó, bắt đầu với Phần ba, chúng ta sẽ chọn từng thành phần trong số này và
+
+đi sâu vào chi tiết.
+
+Vì vậy, bắt đầu với Phần ba phần cứng, chúng ta sẽ nói về các loại máy tính khác
+
+nhau sẽ cài đặt RAM và chúng tôi sẽ chỉ cho bạn thực tế, tôi sẽ mở máy tính.
+
+Tôi sẽ chỉ cho bạn vị trí của Ram và cách bạn có thể thay thế nó.
+
+Tương tự, sẽ làm cho CPU và lõi và ổ cắm của nó sẽ cài đặt CPU.
+
+Họ muốn nói về kiến trúc xử lý đĩa 32 và 64 bit, bo mạch chủ đĩa cứng, các bộ phận bên trong khác của máy tính,
+
+các bộ phận bên ngoài, nhà sản xuất phần cứng, so sánh máy tính với cơ thể con người
+
+của chúng ta, sau đó là bài phát tay và bài tập về nhà.
+
+Chuyển sang Phần bốn, chúng ta sẽ nói về mọi thứ về hệ điều hành, các loại chức năng,
+
+tòa nhà, hệ điều hành Seelie và GUI, quy trình khởi động máy tính.
+
+Và sau đó chúng ta sẽ kết thúc với tài liệu phát tay của Cui, sau đó chuyển sang Phần năm,
+
+đó sẽ là phần mềm, phần mềm và các loại hệ thống phần mềm khác nhau, phần mềm, phần mềm ứng dụng, phần
+
+mềm miễn phí và phần mềm chia sẻ, bios phần mềm nguồn mở và truy cập chương trình và dịch vụ BIOS .
+
+Vì vậy, mọi thứ mà bạn nói đến, có rất nhiều điều bạn có thể đã nghe nói về phần mềm.
+
+Này, đây có phải là một phần mềm miễn phí không?
+
+Chúng ta sẽ nói mọi thứ trong phần này.
+
+Sau đó chuyển sang Phần sáu, đó là về mạng, cách các máy tính giao
+
+tiếp với nhau, địa chỉ IP, TCP, Mạng con cổng IP, địa chỉ Mac hoặc sily.
+
+Tôi chắc rằng bạn đã nghe về nó, nhưng tôi sẽ dành chút thời gian để giải thích cho bạn cách nó hoạt động và tầm
+
+quan trọng của nó trong mạng máy tính.
+
+Chúng ta sẽ nói về các giao thức và cổng IP của OWI và TCP, các loại thiết bị mạng, cách thức hoạt động của
+
+Internet, chuyển sang Phần bảy, sẽ là mọi thứ về cơ sở dữ liệu RDBMS, một hệ thống quản lý cơ sở dữ
+
+liệu quan hệ.
+
+Năm RDBMS hàng đầu của Esquibel là gì?
+
+Sau đó, Phần tám đến phần giới thiệu bộ lưu trữ máy tính lưu trữ.
+
+Cách thức lưu trữ được tính toán các loại lưu trữ khác biệt giữa Ram Swap Bộ nhớ Wortzel và độ cứng bộ nhớ cache
+
+SSD Salustri Drive sắp xếp các bộ cuộn lưu trữ dữ liệu hàng đầu, sau đó chuyển sang đám mây ảo hóa Phần chín.
+
+Cách ảo hóa hoạt động.
+
+Các thuật ngữ ảo hóa cơ bản Lợi ích Sự khác biệt giữa đám mây và ảo hóa.
+
+Công nghệ VMware workstation player Oracle Work Cài đặt cài đặt hộp ảo của máy ảo sẽ nói về
+
+cách chúng ta có thể thực hiện cài đặt.
+
+Chúng tôi thực sự sẽ làm như một phòng thí nghiệm được thiết lập và tôi sẽ hướng dẫn bạn thiết lập các phần
+
+mềm ảo hóa này và thiết lập máy ảo, sau đó chuyển sang phần mười bảo mật.
+
+Một thành phần quan trọng nhất khác của nó, chúng ta sẽ nói về các mối đe dọa khác nhau, vi phạm, cách chúng ta
+
+có thể bảo mật hệ điều hành, ứng dụng máy chủ vật lý, v.v.
+
+Sau đó, Phần mười một là về hệ điều hành Windows.
+
+Bạn đang thâm nhập vào nó.
+
+Bạn nên biết phần nào về windows.
+
+Tất nhiên, bạn sẽ không đề cập đến mọi thứ về windows, nhưng có rất ít chủ đề quan trọng về
+
+windows, chẳng hạn như tài nguyên hệ thống tập tin, trình quản lý máy chủ, vai trò và tính năng thư mục hoạt động,
+
+v.v.
+
+Điều tương tự sẽ xảy ra với Linux.
+
+Chúng tôi sẽ cài đặt Linux cùng nhau và chúng tôi sẽ truy cập Linux.
+
+Cách chúng tôi có thể truy cập tiện ích hệ thống liệt kê thư mục hệ thống tệp, v.v., và sau đó là khái niệm khắc phục
+
+sự cố.
+
+Vì vậy, điều này rất quan trọng đối với bất kỳ ai đang tìm hiểu về cách bạn có thể khắc phục sự cố.
+
+Và cái cuối cùng là các tài nguyên bổ sung, sẽ bao gồm một số bài giảng bổ sung mà tôi sẽ thêm
+
+vào cuối.
+
+Vì vậy, chúc may mắn và tôi sẽ gặp bạn trong bài giảng tiếp theo.
