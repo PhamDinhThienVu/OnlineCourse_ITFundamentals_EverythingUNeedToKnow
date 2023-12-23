@@ -1,0 +1,135 @@
+Hello, everyone.
+
+In this lecture we are going to talk about cloud.
+
+I'm sure you have heard this word cloud or cloud, Cloud storage, cloud computing, cloud networking
+
+so many times.
+
+But maybe you are having a hard time understanding what really cloud means and what kind of services
+
+we could get from the cloud.
+
+In this lecture, I am going to make sure that I explain it to you.
+
+The cloud and its purpose and features in a very simple language.
+
+That is why recently cloud has become also an extended component of it, because a lot of companies
+
+are moving to cloud and therefore you need to understand the concept behind the cloud.
+
+All right, let's look at the definition of cloud first.
+
+Cloud computing is the on demand availability of computer system resources, especially data storage
+
+and computing power.
+
+Without direct active management by the user.
+
+Now pay attention without direct active management by the user.
+
+The term is generally used to describe data centers available to many users over the internet.
+
+Like there are data centers somewhere, but those data centers are available to you through the Internet.
+
+Now, for those people who do not know what a data center is, a data center is where all the companies
+
+have their IT resources set up, like in a shelf.
+
+All the computers are there, all their hardware gear, all their networking gear, actually, and a
+
+dedicated place.
+
+And that place is called Data Center.
+
+Now let's go into details of defining how we could differentiate cloud from a regular data center.
+
+So in our regular data center, for example, you work for a company, ABC, and you work for the IT
+
+department and they have their data center in their data center.
+
+Of course, you have servers and those server, the hardwares are actually managed by maybe the data
+
+center technician or hardware technicians.
+
+Then on top of those servers we have the operating systems running.
+
+Those operating systems are managed by system administrators in your company.
+
+And then there are applications running on that operating system like Oracle or many other applications,
+
+depending on the requirement of your business.
+
+Of course, for those applications, you need the users who manage those applications.
+
+Then also in the same data centers, you have networking gear like, you know, firewalls or routers
+
+and switches.
+
+Now if you I'm most likely you do have them in your data centers.
+
+And then what do you need?
+
+You need people like network administrators or security administrators to manage those network devices
+
+or configure them for servers to communicate.
+
+Also, if you are running application, I'm sure you want to put them on a storage that is redundant.
+
+So you need external storage attached to your server and then you have the storage.
+
+What do you need?
+
+You need people like storage administrators to manage those storage arrays.
+
+Now you see, you have to hire so many people in your IT department to actually get the application
+
+working for you.
+
+Now comes the cloud.
+
+The cloud companies came up with this concept of cloud in the cloud.
+
+They have just the same data center like you have for your company, but you don't know where that data
+
+center is.
+
+Maybe it's somewhere in the world that you don't know and you really don't need to know where that is.
+
+All you need to access in that cloud.
+
+Technology companies who actually provide these cloud technologies, they already have in-house people,
+
+the administrators like storage network system administrators who actually manage the servers, the
+
+operating system, the network, the storage and everything.
+
+They do everything for you.
+
+All you have to do is manage your application.
+
+You will access your application from those servers and you will only need those users to manage those
+
+applications.
+
+That is the main difference.
+
+And in very simple words, the difference between the actual physical data centers that you have been
+
+working on with your company and anything on the cloud.
+
+And some of the examples I give you cloud is Azure Cloud, VMware Cloud, Amazon Cloud, one of the
+
+biggest one.
+
+We will talk about clouds in a later lectures.
+
+Also, I will go through the difference between what are the difference between private cloud, public
+
+cloud and some of the more details in the later lectures.
+
+But for now I am sure you got a good gist of what a cloud is.
+
+And if someone is asking you to explain cloud, I'm sure you could give them the same example to explain
+
+what a cloud is.

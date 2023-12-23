@@ -1,0 +1,65 @@
+Hey, everyone, in this lecture, we are going to talk about the database.
+
+Database is another component of it or computers.
+
+So before we understand what database is, let's separate data from the base.
+
+So what is a data?
+
+Well, data is a collection of facts such as numbers, words, measurements, observations, or just
+
+description of things.
+
+For example, your name, age, height, weight, etcetera are some data related to you.
+
+A picture image file, pdf, etcetera can also be considered as data.
+
+So now what is the base?
+
+Base is something like a system, a foundation or a hub or a central location where all the data come
+
+together.
+
+So now let's look at the database definition.
+
+A database is an organized and systematic collection of data, generally stored and accessed electronically
+
+from a computer system.
+
+Databases make data management a lot easier.
+
+Now comes the question is data can be stored in a spreadsheet or a text document as well.
+
+So why we need a database?
+
+Well, that's a good question.
+
+Like we use spreadsheets or we have a text document.
+
+We could put our name, our age and all that information into those documents.
+
+So why do we really need the database compared to those regular flat files?
+
+Well, database store information more efficiently.
+
+Databases can handle volumes of information that would be unmanageable in a spreadsheet.
+
+Spreadsheet have record limitations, whereas databases do not compare to databases.
+
+Spreadsheet can require a large amount of hard drive space for data storage.
+
+Whereas in databases it takes a lot less space on your on your storage.
+
+Also in database, joining records is a lot easier than compared to text or spreadsheet.
+
+So let's say if you have a spreadsheet that only tells you the age and let's say some information,
+
+date of birth of a user in another spreadsheet, there is names and the address of that user.
+
+So sometimes when you want to get all that data in one line or in one record, so combining those two
+
+spreadsheets, it's a lot harder than compared to running some join SQL statements to combine that record.
+
+So that's why we have database.
+
+The pulling the database or data out of database is a lot easier than compared to these simple files.

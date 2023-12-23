@@ -1,0 +1,51 @@
+Hello and welcome back.
+
+In this video, we are going to talk about the application right from the image you will see that's
+
+a third layer of the image where the application runs on top of the operating system.
+
+And users like us access those applications.
+
+So application is also one of the major components of computers.
+
+Application is a program or a combination of programs designed for users to perform certain or desired
+
+tasks.
+
+Let's take a look at the certain examples of applications so we'll have a better understanding.
+
+For example, Microsoft Word or Excel or PowerPoint or any of those Microsoft related applications are
+
+of huge examples of what applications are Internet browser.
+
+If you're using Firefox, Google Chrome or Microsoft Internet Explorer, those are all examples of application.
+
+If you're talking about the corporate world, in the corporate world, there are many bigger applications
+
+that manages your accounting or finances, and some of them like our ERP or SAP applications for mobile
+
+users.
+
+Like if you have a cell phone, you probably notice that there are millions of applications that you
+
+could download from the Apple Store or Samsung store.
+
+Those those are those tiny ones that actually gets downloaded on your phone.
+
+It gets downloaded or your operating system.
+
+And those are called apps short for applications.
+
+To further clarify the difference between the software and application, A software is anything that
+
+runs inside of a computer.
+
+So a software can be in an operating system because it is something that you cannot touch and it goes
+
+inside of your computer.
+
+A software can be an application that you create and with a combination of a program or multiple program.
+
+So anything that is inside of your computer is a software, and a software is very generic term that
+
+is used for all those coding programs that you create to run your computer.

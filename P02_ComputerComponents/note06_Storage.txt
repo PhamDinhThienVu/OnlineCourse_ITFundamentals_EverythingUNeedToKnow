@@ -1,0 +1,95 @@
+Hey, folks, as we are going through the components, let's not forget the storage.
+
+Storage is an extended component of it, and it does play a very vital role when it comes to storing
+
+data.
+
+So let's take a look at what storage is.
+
+And I'm sure you guys all know storage is a place in your computer where data is saved.
+
+We know that when you shut down your computer, all that data is saved.
+
+And when you turn the computer back on, you could retrieve that data from that disk.
+
+So it can be simple hard drive or solid state drive inside of a computer, depending on what kind of
+
+computer or what kind of hard drive that you purchase.
+
+Now, storage can be internal or external.
+
+Now internal, you know, it's inside of a computer, not external.
+
+That's where this becomes an important factor or an important component in it is to have external storage
+
+or array of storage that we will discuss in a few minutes.
+
+Now in it, world storage is another extended component, which is a collection of multiple redundant
+
+disks, also referred to as disk library or disk array that is used mostly in corporate world to store
+
+large volume of data.
+
+Yes.
+
+So let's take an example to clarify or simplified a lot easier way.
+
+So in your home environment, you have your desktop or your laptop and your laptop.
+
+You all know we have a disk inside of that laptop, that disk we use.
+
+We create our data, we write our data, and then we save our data in that disk.
+
+Now what happens if this disk dies or crashes or gets corrupted?
+
+Then of course you lose all your data from the disk.
+
+And I'm sure someone probably have experienced this kind of issue.
+
+I have actually experienced this issue too, in the past where I have saved all my data on that one
+
+disk and my computer crashed or disk crashed and I lost all the data.
+
+So of course that is something you could afford on the home.
+
+But when we are talking about the corporate environment, you do not afford to lose the data, the corporate
+
+level data.
+
+So in corporate world, what they do is they actually buy these big shelves, big racks, and each rack,
+
+they have multiple servers, they look like a server, but they have inside of these servers, they
+
+have actually arrays of disks.
+
+So each of that has disk disk and many, many disks.
+
+And these disks are set up in a different raid.
+
+What is a raid?
+
+That is something we'll talk about later, definitely.
+
+But raid and simple in simple words is basically a redundancy of the disks.
+
+In case you lose one disk in this array, then you have other disk where you could get or retrieve your
+
+data.
+
+So this way, no matter what happens or you lose one or 2 or 3 disks or as many disks, depending on
+
+how you set it up, that corporate storage array, you will be able to retrieve that data.
+
+Now that corporate storage can be accessed either through San or Nas.
+
+What are those terms?
+
+I will cover that in the later lecture.
+
+And I'm telling you, you do really need to know these things if you are getting into it world.
+
+So hope you understand what storage is on the corporate side and we will cover much in detail in the
+
+later lecture.
+
+See you in the next lecture.

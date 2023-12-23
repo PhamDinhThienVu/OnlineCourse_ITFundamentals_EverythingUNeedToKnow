@@ -1,0 +1,55 @@
+Hey, folks, in this lecture, we are going to talk about it, security.
+
+Security is another extended component of it when we are talking about all these different components.
+
+Please make sure we are not overlooking the security, which is also one of the most important aspect
+
+in I.T..
+
+Let's take a look at the I.T. security definition.
+
+Security can be referred to as computer security, cybersecurity or I.T. technology.
+
+Security is the protection of computer systems and network from information disclosure teft off or damage
+
+to their hardware, software, electronic data, as well as from the disruption or misdirection of the
+
+services they provide.
+
+So basically the security to secure your network or your environment, not only that, to protect your
+
+data, but also to protect your hardware where your data resides, the software that controls that data
+
+and any of the services that runs on top of those software.
+
+All right.
+
+It security prevents malicious threats and potential security breaches that can have a huge impact on
+
+your organization when you enter your internal company network.
+
+I.T. security helps ensure only authorized users can access and make changes to sensitive information
+
+that resides there.
+
+I.T. security works to ensure the confidentiality of your organization's data.
+
+So security can be applied at the following levels.
+
+It can be applied at the hardware operating system, application network, storage, data base and virtualization
+
+or cloud level.
+
+You do need security on all of these components and security wraps around all these components in the
+
+later lectures.
+
+When we get to the broader topics on the security, I will cover what are the security threats, how
+
+the security can be breached, what kind of security breach there are, and how are different ways to
+
+protect our computers.
+
+So stay tuned.
+
+I'll see you in the next lecture.

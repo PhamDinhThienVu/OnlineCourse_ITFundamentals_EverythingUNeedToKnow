@@ -1,0 +1,95 @@
+Hey, folks, in this video, we are going to talk about software and operating system.
+
+Operating system is a software as well.
+
+And software is anything that you cannot touch which runs inside of your computer as compared to hardware
+
+is something you could feel or touch.
+
+Software is a written set of instructions that tells your computer what to do.
+
+Operating system, which is also a software.
+
+It runs on top of your hardware.
+
+Without the operating system, your hardware is just like a piece of brick or a piece of metal because
+
+it cannot function without an operating system.
+
+The operating system supports computer functions such as scheduling tasks, executing application and
+
+controlling peripherals.
+
+So when you have the operating system, your operating system is actually controlling your devices.
+
+If you want to print something through your application, let's say you have a Microsoft word, you
+
+want to print your document, then at that specific instruction goes to operating system and operating
+
+system sends it to the printer to print.
+
+Let's take a look at a few examples of our operating systems.
+
+Well, number one is Windows.
+
+Windows has the most market share in user environment.
+
+Then we have Mac.
+
+A lot of people uses Mac as well.
+
+Then we have Linux.
+
+Linux is mostly used in the corporate world and many times people use it as a command line.
+
+It also have a graphical user interface which is called gooey, just like Windows.
+
+But again, most of the people use it without it, so it could function a lot faster.
+
+Another operating system you have is Unix, which runs Solaris or X, and I'm sure there are many other
+
+operating system that are out there I don't want to list, but these are the main four operating systems
+
+that we could actually relate to.
+
+Then let's look at the example of mobile operating system that's running in your cell phone.
+
+Number one is iPhone.
+
+It runs iOS operating system.
+
+And the second one is Samsung, which runs Android Operating System.
+
+Okay.
+
+So let's understand how our operating system works through this image.
+
+Here we have this image where the bottom layer you see it's a hardware on top of it.
+
+We have our operating system running.
+
+Then on top of the operating system, we have our application programs running and who are using those
+
+applications.
+
+You you are the users who are actually accessing that application.
+
+Now, to make it more simpler, let's put down our hardware, which is our computer on top of our computer.
+
+We have our operating system and we take an example of our Windows operating system.
+
+When you start up your computer, the operating system starts up and then you might need to use an application.
+
+And in this example, we picked Microsoft Excel.
+
+You probably need to use Microsoft Word or you maybe you need to use Firefox browser or maybe other
+
+applications.
+
+And now who are using these applications, that is you.
+
+That's how the actual sequence of operation works and the operating system, if you could see it's sitting
+
+in the middle between the application and hardware, taking the instruction from you and the applications
+
+and handing it over to the hardware.

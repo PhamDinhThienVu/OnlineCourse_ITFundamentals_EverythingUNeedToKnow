@@ -1,0 +1,91 @@
+Hey, folks, let's talk about the other components.
+
+We have already covered the three basic or computer components.
+
+Number one is the hardware.
+
+Second one is the operating system, also referred to as a software.
+
+And the third one is the applications.
+
+So now let's say if you have a hardware, your laptop or your desktop and it has a Windows operating
+
+system installed on it, and then you need to use Microsoft Word and that's the application you can
+
+work on it, save your documents on the computer works fine.
+
+Now what if you want to perform different functions?
+
+For example, one of the things that you want to do is you write up the application or you open a Microsoft
+
+word, you type up an application or letter and you want to send to your friend.
+
+That friend is using a different computer.
+
+So definitely that's where the other components come in and that components is the networking.
+
+So you do need a network between the computers to talk to other computers.
+
+So in this lecture we are going to cover the networking piece.
+
+So the very first thing we have to see here is your computer.
+
+Your computer has, again, hardware software, which is the operating system and the applications that
+
+you need to perform certain functions.
+
+Now, what if you want to send or communicate to another user that is on a different computer?
+
+Now let's see if that computer is within the same location.
+
+Then you could simply use a crossover cable to connect one computer to another and you could communicate.
+
+Now, what if you have multiple computers within the same location?
+
+Then what you could do is you could put in a switch, a small switch with the port requirement that
+
+you have depending on the computers you have.
+
+So you could connect your computer to that little switch or the cat5 cable.
+
+Now, what is a Cat5 cable?
+
+That is something we will cover later on.
+
+And what is or how many little cables inside of a cat cable or cat6 cable?
+
+We'll cover that later.
+
+So anyway, for now, you will see you will connect to that switch.
+
+And from that switch you see these multiple ports.
+
+Then you could attach those cables to these different computers and that's how you could talk to these
+
+different computers.
+
+Now comes a question What if there is a computer out on the Internet or it's somewhere in another location
+
+or another part of the world and you want to talk to that computer, then of course, you need a modem
+
+or your ISP or your service provider.
+
+So in my location, I have a service provider like Cablevision or Optimum or FiOS.
+
+So I'm sure whichever the part of the world you are, your Internet provider is the provider who has
+
+provided you the modem that allows you to talk to outside world.
+
+So you connect your computer through the Cat5 cable again to that modem and that that modem is connected
+
+to the outside world and that's how you communicate.
+
+But of course, if you need to communicate to the outside world, you need or your computer needs an
+
+IP address, IP address stands for Internet protocol, and that is something we will cover in the later
+
+lectures.
+
+So that's pretty much another component of networking.
+
+If you want two computers to talk to each other, I'll talk to you in the next lecture.

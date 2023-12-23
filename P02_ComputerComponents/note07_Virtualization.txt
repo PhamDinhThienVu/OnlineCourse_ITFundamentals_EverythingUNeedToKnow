@@ -1,0 +1,131 @@
+Hello, everyone.
+
+Let's take a look at virtualization.
+
+What is virtualization?
+
+Before we get into explaining the concept of virtualization, let's take a look and understand of how
+
+physical system configuration works.
+
+So in a regular world, as you can see, there is a physical server.
+
+A physical server could be like a Dell or HP or any of those manufacturers that build a physical server
+
+on that physical server.
+
+What do you do when you get that physical server?
+
+You actually install an operating system on top of it, and that operating system could be Windows,
+
+could be Linux or any of the operating system of your choice, right?
+
+Then what happens?
+
+You install the operating system and then on top of that operating system, you run your applications.
+
+Those applications are, for example, Excel word in in in Windows World, in Linux world.
+
+You run like a DNS application, NTP application in a regular applications where rarely enterprise level
+
+application like ERP, SAP, PeopleSoft, all of those applications run on those application on on that
+
+platform or the operating system is.
+
+So this is how you see an ideal or an a regular world, how the layout works.
+
+Now what's the problem with this?
+
+The problem with this is you have a physical server.
+
+The physical server has 16 gig of Ram and four CPU and then you install operating system on top of it.
+
+Operating system only needs four gig of Ram and two CPU to run and then you install an application on
+
+top of it.
+
+And that application only needed two gig of Ram and one CPU for that application.
+
+What happens then?
+
+Then you have eight gig of Ram and two CPU that are wasted.
+
+Yes, resources are underutilized.
+
+That's why the virtualization was born.
+
+People thought they sat down.
+
+They said, You know what, we have this physical server with so much resources.
+
+We only run one operating system and one application and everything else is wasted.
+
+We got to come up with a better solution.
+
+So now let's look at the virtualization.
+
+When virtualization came into being, then what happened?
+
+What happened was there is a physical server same way running Dell on HP, which whoever the manufacturer
+
+is, then you install a virtualization layer on top of it, a virtualization layer from anywhere like
+
+from VMware, from Oracle virtualization.
+
+Then you install operating systems on it.
+
+So you could install two, three, four, how many operating system you can depending on the on the
+
+resources that you have on the physical system.
+
+And then on top of those operating systems, you have the application individually run on each of that
+
+operating system.
+
+Now what's the advantage?
+
+Let's look at the advantage.
+
+That's a physical server.
+
+Again, going back to 16 gig of memory and four CPU.
+
+You install a virtualization layer which takes up all your CPU memory and CPU.
+
+Perfect.
+
+Then that operating systems you have then applications.
+
+Each of that operating system application has four gig and one CPU.
+
+So each is each of that operating system has given all the resources.
+
+What happens then?
+
+All resources are fully utilized, not wasted.
+
+See how how we could take the full advantage of all those resources.
+
+So again, one more thing.
+
+Remember those days when you have one physical server and one operating system and then people came
+
+up with another idea of, you know what, split the disk in half and let's do dual dual boot.
+
+So one of the partition would run, let's say Linux, and one partition would run Windows.
+
+But the problem was with that is you could run only one operating system at a time in virtualization.
+
+This is the beauty of the virtualization.
+
+You don't have to have one operating system run at one given time.
+
+You could run both or 3 or 4 operating systems at all times, all at the same time.
+
+That's why the virtualization is so important and so beneficial.
+
+Again, in layman's term, virtualization is something is really not real, but it is actually real.
+
+It is utilizing the system resources and sharing those system resources among all the operating system
+
+that runs on that physical server.
