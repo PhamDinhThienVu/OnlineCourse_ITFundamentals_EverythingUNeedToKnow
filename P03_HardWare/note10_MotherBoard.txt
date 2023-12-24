@@ -1,0 +1,115 @@
+Hello.
+
+In this video we are going to talk about the motherboard of a computer.
+
+The motherboard is the backbone that ties the computer's components together at one spot and allows
+
+them to talk to each other.
+
+It is the main circuit board inside of a computer.
+
+So if you look at on the right hand side, the picture of a motherboard, you will see it's like a flat
+
+surface which has all the transistors.
+
+It has the memory slots, it has the CPU sockets and all the devices that we connect on top of it.
+
+It has the slots for all of those.
+
+So motherboard kind of like brings everybody together.
+
+So it connects the CPU ram hard drive, optical drive, video card, sound card and many other internal
+
+components.
+
+It also provides you to attach external components to the computer as well.
+
+Now the motherboard is also responsible to distribute power to the various components of the computer.
+
+You could connect the power to the motherboard and that then the motherboard is responsibility to distribute
+
+that power to all the other elements inside of the computer.
+
+It is also referred to as main board or main circuit board system board logic board.
+
+But overall, most of the time people referred or the technician referred it to as the motherboard.
+
+Here are a few popular manufacturers that actually manufacture these motherboards.
+
+Number one is Intel, then Asus Aopen abit.
+
+Biostar Gigabyte and MSI.
+
+There might be a few other manufacturers, but these are the main ones who have the most market share
+
+in manufacturing these motherboards.
+
+All right.
+
+So now we're going to open up our computer and we will take a look together how motherboard is laid
+
+out on a computer and how it functions in terms of bringing all these parts together.
+
+Okay.
+
+It's time again to open up our computer and find out where that motherboard is.
+
+By the way, I already have my strap and right here and I'm going to go a little zoom in.
+
+Okay.
+
+And move this here so you will have a better look of what is inside of the computer.
+
+All right.
+
+So right here, all the way in the back of the computer, this entire board, which is in my case,
+
+is blue.
+
+And most of the time it is blue.
+
+The motherboard, this entire board in the back is the motherboard, which is the backbone of our computer.
+
+And if you look closely, every inside component of our computer is attached on that motherboard.
+
+So motherboard is the one that you could say allows the communication, the traffic for one component
+
+to another.
+
+It's like a highway.
+
+So right here we have the CPU.
+
+We covered that already that is sitting on top of our motherboard.
+
+The memory, the dimm slots are also on top of the motherboard.
+
+We have our disks right here attached to the motherboard.
+
+These are our cards that are sitting on the expansion PCI slots right here that are also sitting on
+
+the motherboard.
+
+Then we have the fans right here.
+
+We have our power supply at the bottom right here.
+
+And there are certain circuits and transistors that are on the motherboard anyway.
+
+So there might be a chance, if you're getting into the IT job, most likely an IT technician job or
+
+a hardware support job, then you might have to replace the motherboard or faulty motherboard.
+
+Of course.
+
+Then what you have to do is basically take out every piece that is attached to this motherboard and
+
+then you will replace this entire motherboard.
+
+I know it's not that it doesn't look that easy, but it is part of the job.
+
+And once you replace it and you once you put everything back, back on the motherboard, then your computer
+
+should be back in operational.
+
+I'll see you in the next lecture.

@@ -1,0 +1,143 @@
+A wonderful people in this video.
+
+We are going to open up our computer and I'm going to show you what our ram or memory looks like.
+
+Where is it located inside of the computer and how we could remove or replace a memory module that's
+
+inside of the computer.
+
+By the way, those memories or rams, they are this thin little circuit boards that are installed over
+
+the motherboard.
+
+And they're also called DIMMs, which stands for dual in-line memory modules.
+
+Okay.
+
+So I have this HPC here.
+
+I'm going to put it up right here so you will have a better look.
+
+And in my PC right here it has the side which side panel which opens up with the side panel.
+
+There is this latch right here and you lift the latch.
+
+It opens the side panel.
+
+Now, of course, it depends on your computer or the server that you're working on.
+
+If you're working on a server level, usually they are flat and horizontal, so you have a latch on
+
+top of the computer where you could open it up and remove the top and then you could locate the memory.
+
+DIMMs Okay.
+
+In this one, in my computer.
+
+Let me go a little let me zoom in a little.
+
+Okay.
+
+Much better.
+
+So let me come around and we'll go and take a look inside of our computer together.
+
+So right here on the back, very back of this computer is our motherboard.
+
+Right here is our CPU.
+
+And right here is another slot for CPU.
+
+If I wanted to upgrade.
+
+These are the cards that we have for our network.
+
+And right here you see this plastic.
+
+This is where the memory or Ram is installed behind this plastic cover.
+
+So now we're going to open up this cover.
+
+There's this little tab right here.
+
+I'm going to push it down and I'm going to take this out.
+
+Okay.
+
+So let me do a little zoom in more.
+
+Okay.
+
+So you see right here, these are the memory dims.
+
+As you notice, I have three of them.
+
+Each dim that I have is two gig.
+
+So that makes my computer two plus two plus two six gig of Ram.
+
+You see right here, These are the empty slots for my Ram.
+
+If I wanted to upgrade my Ram because I need to run certain applications that require more memory,
+
+then I could purchase these memory DIMMs and I could add them to these slots.
+
+And of course, it is always recommended that you go with the same size of DIMMs that you already have
+
+on your computer.
+
+So if I have two, then I should go with two, two, two.
+
+So six plus six, I will have 12 gig of memory.
+
+Okay.
+
+Now comes the time how we could take one out or replace one.
+
+So you see right here each memory Dimm.
+
+These have a little white tabs here.
+
+One on the left, one on the right.
+
+You have to push it down and push it down from the other side as well.
+
+And then simply take out this memory.
+
+Now this is the memory card or dimm.
+
+And please make sure if you notice closely, it has this little groove here.
+
+This is our little guide that when we are inserting this in, we are not inserting upside down or the
+
+wrong way.
+
+So that is why there is this little groove here.
+
+This Dimm also have its serial number, the manufacturer and the size of this Dimm.
+
+Now if you want to add or replace it, let's say for example, if it's a faulty dimm, then you could
+
+get a new one.
+
+And with the new one you could do the same thing.
+
+All you have to do is align with the slot, start with the left corner and the right, and then push
+
+it down a little bit on the left corner.
+
+Once it's in there, all you have to do is simply push it in.
+
+As soon as you push in, you're going to hear the clicking sound, which means these tabs, the left
+
+tab and the right tab, they are snapped in and they are grabbing your memory modules.
+
+So these this is how you replace a memory modules or ram in your computer.
+
+Please make sure before you open up your computer, please make sure your computer is unplugged and
+
+it's not connected to the power.
+
+And then you could definitely try to locate where your memory is in your computer.
+
+I'll see you in the next lecture.

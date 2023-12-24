@@ -1,0 +1,67 @@
+Hey, guys.
+
+In this video I wanted to talk about the antistatic wrist strap or sometimes people call it a wrist
+
+band when we are dealing with the hardware and we have to replace the internal components of the computer.
+
+We have to make sure that we wear this anti-static strap so we won't damage the internal parts of the
+
+computer and how it happens.
+
+Well, this anti-static strap, it actually prevents the damage to our computer by preventing the electrostatic
+
+discharge, which is sometimes referred to as insured as ESD.
+
+ESD is what is an ESD, first of all.
+
+So ESD is like a transfer of a natural occurring current that's inside of our body to another surface.
+
+So when this transfer happens, it could cause damage to our internal components of a computer.
+
+So you probably, I'm sure everyone in their life have experienced that.
+
+Sometimes when you walk on a carpet with your socks and then you reach a doorknob, you you get a static,
+
+that's a static that actually generates inside of your body.
+
+So when you have that type of static and you're working on the computer without this, yes, you could
+
+seriously damage the internal components of the computer.
+
+So it's very easy.
+
+All you have to do is attach this strip where the Velcro is on your wrist, and then the other end of
+
+this strap, which is right here, is a clip.
+
+Then you should attach it to the any metal surface of your computer.
+
+I usually attach it on the back, see, it has a metal surface, but if you have the computer open,
+
+you could also attach where the encasement of the disk drive is.
+
+That's where the strip goes for the metal surface too.
+
+You could attach it there too.
+
+It is a very, very safe and it will again, if you're working on a production server or in a corporate
+
+environment, those hardware, the internal components of the computer are very expensive and you do
+
+not want to take that your body current the static and transfer that to the inside of your computer
+
+components.
+
+So please make sure you buy this when you're going to start a job.
+
+I'm very sure your employer will give you one of these to work on.
+
+If you are dealing with replacing the computer hardware and if you want to try it out, it's not very
+
+expensive.
+
+It's cost me $3 USD, $3.
+
+You could buy it and you could try it out for your for your lab computer or anything like that.
+
+I'll see you in the next lecture.

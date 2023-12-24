@@ -1,0 +1,105 @@
+Hey folks, we are on the topic of discussing computer hardware, so how can we forget CPU?
+
+CPU stands for central processing unit and that is the most important component of a computer hardware.
+
+It is a chip that sits on your motherboard and it is the brain of the computer which processes the instruction
+
+that come from programs, the operating system or other components in your PC.
+
+So whatever the instruction that you pass through your keyboard, your mouse or any external peripheral,
+
+it actually carries it through memory and it is given to your CPU to process those instructions.
+
+Now I wanted to also cover the socket and the core because a lot of people sorry, a lot of times people
+
+actually mix up CPU with core with socket.
+
+So let's take a look at what is a socket.
+
+Now socket is nothing but a placeholder on your motherboard for your CPU.
+
+So it's an actual socket on your motherboard where CPU resides.
+
+Now your computer could have one socket or multiple sockets.
+
+Next thing is core.
+
+Core is a multiple CPU which sits on one single socket.
+
+So that chip that you see that chip could have one CPU or could have two CPU.
+
+When it has two CPU, then it is referred to as a core.
+
+So two dual core or four core CPU.
+
+Just like in the picture you see we have two sockets and each socket has a CPU which has four cores.
+
+Now in other picture you'll see this is how the exact looks like and it has two square black dots which
+
+are, which are representing core one and core two.
+
+Now in the next slide to explain you a lot better how our CPU works in computer, I have put together
+
+an example.
+
+Let's say if someone asks you, Hey, what is two plus two?
+
+Now, without thinking, without consulting with your brain, you're going to spit it out.
+
+It's four.
+
+You know why?
+
+Because that is something tattooed in your mind is something burn into your mind that you don't need
+
+any kind of processing to get that answer because that is something we've been hearing since we are
+
+children.
+
+So that is why you spit it out and you don't consult with your brain.
+
+Now, what if someone asks you, hey, what is 35 plus 49?
+
+Now that is where you're not going to ask.
+
+Answer right away.
+
+So what are you going to do?
+
+You're going to start thinking and you're going to put these 35 plus 49 in your memory.
+
+You're going to bring that up.
+
+And in computer, the Ram is the one that brings that 35 plus 49 in the memory, then starts the computation.
+
+The CPU comes in memory, says, hey, CPU, I have this one.
+
+This this calculations to solve.
+
+I want you help CPU says okay, hold that in the memory and let me do the calculation.
+
+Then the calculation starts and says five plus nine is 14 and I'm going to carry put four here and carry
+
+one up here.
+
+Then one plus three is four and four plus four is eight.
+
+So that is 84.
+
+And that's how once it is done, you've done the calculations, the processing is completed, memory
+
+is going to release that information and you're going to spit it out from your mouth.
+
+That had, Hey, it is 84.
+
+So that's exactly how our brain functions and how our CPU functions in a computer.
+
+And that's the best comparison that I could give you.
+
+And that will make you understand how CPU functions in a computer.
+
+In the next lecture, I am going to open up the computer and we're going to take a tour and look at
+
+how or where the CPU is in our computer.
+
+Stay tuned.

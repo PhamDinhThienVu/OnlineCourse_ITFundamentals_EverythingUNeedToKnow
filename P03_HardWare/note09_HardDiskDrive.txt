@@ -1,0 +1,237 @@
+Hello again.
+
+In this video we are going to cover another important computer hardware.
+
+And that is hard disk drive.
+
+Now, I got this definition from Wikipedia and it's very easy and self-explanatory.
+
+And it says a hard disk drive, which is HDD, is an electromechanical data storage device that uses
+
+magnetic storage to store and retrieve digital information using one or more rigid, rapidly rotating
+
+disks.
+
+And that is also called platters coated with magnetic material.
+
+Now, to make it more simpler, a hard drive is a hardware component that stores all your digital content
+
+and such as documents, printers, music video programs, applications and even operating systems.
+
+Now hard drives can be external or internal, so it could be mounted inside of your computer.
+
+Or if you need additional space for your disks, for your storage, then you could attach an external
+
+hard disk to your computer.
+
+Hard disk is a long term memory of your computer, whereas Ram is a short term.
+
+So every time you start up a program, that program is actually saved in Ram, you make changes to that
+
+program or you make changes to your document.
+
+As soon as you close the document and you save it, it gets saved on your hard disk.
+
+And it actually memory releases that from its memory.
+
+So it's a it's a similar concept as in human brain that where you have a short term and long term memory.
+
+If I ask you what is your second grade teacher, then you probably have to really think hard, Go to
+
+your hard disk, drive in your head and retrieve them information.
+
+You probably be lucky if you could put pull that information within a few seconds, but you're going
+
+to have a hard time remembering it because it is saved somewhere back in the hard disk.
+
+But if I ask you, what is your brother's name, then you will tell me right away because that is always
+
+stays in your memory.
+
+You use that name almost every day.
+
+Now let's take a look at the the layout, the physical layout of our hard disk.
+
+Now, if you go and open up your computer and you pull out your hard disk, you will see it is actually
+
+an encasement.
+
+It looks like a rectangular casing.
+
+And when you open up that further down, you're going to see inside of this hard, hard disk.
+
+Now, if you pick pay close attention.
+
+This hard disk has four platters.
+
+See right here.
+
+One, two, three, four.
+
+They look like exactly like a CDs that we have or DVDs, but they are stacked together.
+
+So in this disk, we have four disks together and they are combined together with this middle piece
+
+that's called Spindle.
+
+Spindle allows these disks to rotate, spin, and then you have the slider, the head of which actually
+
+reads the these disks.
+
+So you could write and read through this head.
+
+Okay.
+
+Moving on to the next slide here.
+
+We are actually drilling down to the actual platter how the data is saved.
+
+Now, this entire disk that you see looks like a CD that's called Platter.
+
+And right here in this example, we have two platters in the middle.
+
+As we discussed.
+
+This is a spindle that actually holds these platters and helps them to rotate.
+
+Now, this right here is a disk sector.
+
+This entire chunk right here is a disk sector.
+
+This is the arm.
+
+And the arm has this little tip in front of it, and that's the little head.
+
+Now, if you notice each disk right here, right underneath the first disk, right underneath there
+
+is another arm which reads the information or pulls or retrieve or write your data to the second disk.
+
+Similarly, you see there is a third arm right here, which is actually sitting on your third disk,
+
+which is doing the same thing.
+
+It has a head and it is reading and writing.
+
+So if you have three platters, then you're going to have three arms.
+
+Now this is the track, so each disk has a long track, just like as if you are on a running track.
+
+It has all its tracks now.
+
+Each track on a disk has a sector right here.
+
+Now this is a disk, entire disk sector, but this is a track sector.
+
+Now inside of this track sector, this little blocks this little chunks that you see.
+
+These are the actual files that you have saved on your computer.
+
+Either it could be image file or video file or a regular text file, anything.
+
+So they are saved little by little in chunks on onto these track sectors.
+
+And if you are trying to save a file, too, it is possible that it could go to the second sector sorry,
+
+second platter and the second arm will come into use to place that into the second sector.
+
+So that's how hard disk works.
+
+Now let's go and open up our computer and let's take a look at the actual disk from inside of our computer.
+
+Okay.
+
+So here we are.
+
+You have a good understanding what a disk is and what is inside of a disk.
+
+So when you open up a disk, you'll see there are.
+
+Platters.
+
+Each platter has a sector.
+
+There is a head that reads right to those platters and so on which we covered.
+
+Now it's time to look at that disk.
+
+Where can we find that disk or hard disk inside of our computer?
+
+All right.
+
+So I am going to turn this around.
+
+I already have the side panel of this computer open.
+
+By the way, this time I'm using the wrist band to avoid the static.
+
+And I'm going to use this pin, this clip, to attach it to somewhere that is metal.
+
+So there is no static.
+
+So disk, when you're going to look into the disk in the front of it.
+
+You're going to see that right here.
+
+It this is the CD Rom Drive, which is the drive where we put in the CD rom, but the disk has to be
+
+somewhere underneath or on top of it.
+
+So let's turn this thing around again.
+
+See right here, I have these two disk slots.
+
+Hard disk slots.
+
+I'm going to open the bottom one.
+
+There is this little latch here, a tab which you press it down and it opens or releases the handle.
+
+So pull down the handle and simply pull out the tray.
+
+So right here, it's actually empty insert for this disk.
+
+If I wanted to add another disk to my computer, I do have another slot to add a disk, so my primary
+
+disk is not here.
+
+I could see that.
+
+So I'm going to push this back in.
+
+Then I'm going to open the top one and I'm pretty sure my main disk is right here on the top one.
+
+So let's push the tab down, pull the lever down and pull it out.
+
+Okay, Very good.
+
+So the disc came out.
+
+So this is how the disc looked like.
+
+This is the encasement of the disc.
+
+You could actually open this up.
+
+If you look closely, you're going to notice it has these screws.
+
+There is information about this disc as well.
+
+It has the serial number, it has a PIN number.
+
+It also tells you the size of your disc.
+
+So right here, the size of the disc is 320 gig gigabytes.
+
+So this is the disc.
+
+If you wanted to open up, make sure you know how to put it back.
+
+I don't recommend that you open up if you have a production or some important information saved on this
+
+on this disc.
+
+All right.
+
+So that's pretty much about the disc.
+
+I'll see you in the next lecture.

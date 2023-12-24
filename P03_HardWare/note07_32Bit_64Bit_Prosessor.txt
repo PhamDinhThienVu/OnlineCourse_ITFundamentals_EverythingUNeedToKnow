@@ -1,0 +1,179 @@
+Hello, everyone.
+
+In this video, we are going to cover a very interesting topic, and that is, what is the difference
+
+between 32 and 64 bit processor?
+
+I'm sure a lot of people ask this question when they go buy a computer, but nowadays a lot of computers,
+
+I would say most of the computers come in 64 bit processor as 32 bit is an older version or a older
+
+model of computers.
+
+All right.
+
+So let's get into what is the difference to clarify, what's the confusion that we have A processor,
+
+first of all, is the same as CPU, which stands for Central processing unit, which processes the instruction
+
+that come from programs, the operating system or other components in your computer.
+
+All right, So let's put it this way.
+
+CPU, we know gets the unit of data or that information from Ram.
+
+Ram is memory.
+
+And when when it gets it, it processes it.
+
+Now, if your computer is 32 bit processor, then it can only process two power of 32 memory addresses
+
+and that equates to four GB of Ram.
+
+So it means your computer cannot process more than four gig of data at a time.
+
+All right.
+
+Now in computers there is only binary.
+
+We know that it's only zero and one.
+
+Each one is considered a bit.
+
+That means for one bit computing you get two possible values.
+
+Two bit means four values.
+
+Then at three bits you double that to eight.
+
+All right, let me put it in a graphical way.
+
+So the picture speaks a thousand words, right?
+
+So we have our computer and we want our computer to do the computation of two plus two.
+
+Now, there's one thing we do need to understand that there are eight bits in one byte and 102 4 or
+
+1024 bytes in one kilobyte, 1024kB equal to one Meg, 1024 Meg equal to one gig and so on.
+
+Now going back eight bits to one byte.
+
+So two has eight bits, another two has eight bits.
+
+So it's this is how it is right now sitting on your desk because computer doesn't understand any other
+
+language but zero and one.
+
+So when we do two plus two, it's basically going to do 00110010 plus 00110010.
+
+And then from the disk, it's going to pull that information.
+
+If it is saved, then it's going to hand it over to your memory.
+
+Okay.
+
+Memory.
+
+If if it is four giga memory, it could actually capture the entire four gig of your data units and
+
+it could hand that over to the CPU to process it.
+
+Now, if your CPU again is 32 bit, then that memory cannot let CPU process anything more than four
+
+gig.
+
+It has to be equal or less than four gig of data.
+
+That's what really a 32 versus 64 bit processor is.
+
+Okay, Moving on to the next slide, we will look at the chart, which is.
+
+Our values for our exponents.
+
+So two to the zero value equals to one and two to the one equals to two, two to the two power equal
+
+to four.
+
+And this is the basic mathematics that we have learned when we were kids.
+
+So that's the what we call an exponent value.
+
+So you do two.
+
+If it is two, then two times two.
+
+If it is two to the power, two three, then two times two times two, then equals to eight and so on.
+
+So if we keep going and keep going to two to the power 32 and put it as exponentially, then eventually
+
+you're going to get the 32 bit worth 4.3 billion.
+
+It means it could process 4.3 billion of data units at a time.
+
+If it is a 32 bit processor.
+
+Now, if it is a 64 bit processor, which is going to be two to the 64th power is worth well, 18 point
+
+quintillion and change.
+
+That's so much.
+
+I cannot even translate it into how many gigabytes it will be.
+
+So now your processor becomes so powerful that it could process so many of that data unit in a shot
+
+and it could take that from your memory.
+
+So let's usually it doesn't happen, but let's say if your memory has 60 sorry, eight gig and your
+
+processor is 32 bit, it's not going to work because your processor can only handle four gig at a time.
+
+If you want your computer to process more than four gigs of memory, then you need to have a 64 bit
+
+processor.
+
+All right.
+
+So again, let's look at this.
+
+This is the our value 4.3 billion when we divided it into divided by 1024, that equates to 419430 four
+
+kilobytes.
+
+Now, if you take that same value and divide it by 1024, that equates to 4096 megabyte.
+
+If you take that same value 4096 and divide it by 1024, that equates to four gig.
+
+And that's what the four gig is about.
+
+The memory card.
+
+If you have a four gig of memory card, then you could have 32 bit of processor.
+
+But if you want a bigger or higher memory, then you cannot go with 32, you got to go with 64.
+
+Let's look at the quick brief history of our processors, how they came into being.
+
+The Intel 8080 chip in the 1970s supported eight bit of computing that's so low now.
+
+In 1992, Window 3.1 was the first 16 bit desktop version of Windows.
+
+Then came the AMD.
+
+AMD shipped the first 64 bit desktop chip.
+
+In 2003.
+
+Apple made the Mac OS X version the ten snow leopard entirely on 64 bit in 2009.
+
+And then moving on to smartphones.
+
+The first smartphone with the 64 bit chip was iPhone 5 in 2014.
+
+So as we're moving into the new eras, this processing speed is increasing the demand for running our
+
+applications and those application requirements to have certain memory is increasing.
+
+So that is why your 32 bit processor cannot actually accommodate that type of computation at one time.
+
+So that is why all of our computers nowadays coming with 64 bit processor.

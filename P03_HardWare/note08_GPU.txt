@@ -1,0 +1,79 @@
+Hi, in this video, we will talk about CPU GPU stands for graphical processing unit, and it actually
+
+functions similar to CPU, but it handles the programs or more specifically graphical processing a lot
+
+faster and parallel meaning simultaneously, it handles and many tasks at the same time.
+
+Keep in mind you can run your computer without a GPU, but you cannot run a computer without a CPU.
+
+GPU allows graphic programmers to create more interesting visual effects and realistic scenes with advanced
+
+lighting and shadowing techniques.
+
+Moreover, GPU to unlock new possibility not only in gaming or graphic world, but also in content creation,
+
+machine learning, artificial intelligence and much, much more.
+
+It is specifically designed to accelerate computer graphics workload.
+
+Yes.
+
+So if you know someone who is in gaming world or loved to play games or advanced level games, they
+
+got to have a GPU in their computer, or they will find a way to add a GPU card into the computer.
+
+So it does allow faster processing and the graphics of their computer games become lot crisper.
+
+There are two types of GPUs.
+
+One is integrated GPU, which looks a lot like a regular CPU.
+
+If you open up your computer that has a GPU, you integrate it to your motherboard.
+
+You might not be able to identify it because it will look a lot like a CPU, and usually it is sitting
+
+next to the CPU.
+
+It is a built into the motherboard and cannot be upgraded or replaced.
+
+It does not come on its own separate card and is instead embedded alongside the CPU.
+
+Now let's talk about the discrete GPU.
+
+A discrete is a mounted on a graphic card that attaches onto a computer's expansion slot on the motherboard.
+
+This kind of graphics card is replaceable, so it can be upgraded.
+
+This way, your computer won't be obsolete.
+
+The graphics card is like a smaller version of a motherboard with its own memory and cooling fan.
+
+So the condition is your computer got to have an expansion slot on its motherboard available so you
+
+could insert this card onto it.
+
+But if it does not, then you pretty much out of luck.
+
+You cannot put it inside of your computer, just like laptops, if you have a laptop and you want to
+
+use a GPU.
+
+Of course, you cannot open your laptop and insert this graphic card into it.
+
+So what do you have to do then?
+
+Then you could buy an external GPU.
+
+Yes, there are many manufacturers who build external GPU that will help you and has your graphics are
+
+for your computer.
+
+So definitely find them out anyway.
+
+That's pretty much about the GPU.
+
+It's very simple.
+
+The only difference between I would say the CPU and GPU is GPU specifically designed for you.
+
+Graphical needs.

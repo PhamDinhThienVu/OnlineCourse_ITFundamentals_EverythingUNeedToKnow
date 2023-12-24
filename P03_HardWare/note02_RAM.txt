@@ -1,0 +1,147 @@
+Hey, guys.
+
+And welcome back.
+
+The very first thing we should learn when we are talking about hardware is the Ram, which is the memory
+
+of your computer.
+
+Ram stands for random access memory.
+
+The data stored in Ram can be accessed almost instantly, regardless of where in memory it is stored.
+
+Therefore, it is very fast.
+
+And by the way, that is why it has the word random in it.
+
+Because no matter where the memory is stored, it is accessed randomly.
+
+Ram allows your computer to perform many of its everyday tasks, such as loading applications, browsing
+
+the internet, editing a spreadsheet or playing games.
+
+Memory also allows you to switch quickly among these tasks, remembering where you are in one task when
+
+you switch to another task.
+
+So as a rule, remember the more memory you have, the better your computer will function.
+
+All right.
+
+Ram gives application a place to store and access data on a short term basis.
+
+Meaning when you when when a computer shuts down, everything in Ram is flushed.
+
+Nothing is saved.
+
+If you wanted to save your documents or anything, when you when you click on on close.
+
+That document is saved in hard disk and hard disk is our long term memory.
+
+If your system has too little ram, it can be slow and sluggish.
+
+And if you notice how you can notice this, your computer being slow is if you open up multiple applications
+
+on your computer.
+
+If you have a Windows computer, for example, you probably notice a spinning circle on your computer
+
+that's just spinning and spinning.
+
+That means that you have less memory.
+
+Your memory is trying to load those applications, multiple applications at the same time, and it is
+
+having a hard time to manage it.
+
+Ram sizes comes in multiple of two's, for example, two, four, eight, 1632 gig and so on.
+
+So.
+
+As an example.
+
+So let's say if I open up my Firefox right now, so if I go to my computer and click on Firefox, see
+
+this window, this applications right now right here is actually loaded in my Ram.
+
+My ram is showing this window.
+
+So as soon as I close this window, it is gone from the Ram.
+
+Same thing.
+
+Let's say if I wanted to open up a spreadsheet, let's say Excel and I am typing something two, three,
+
+four, five.
+
+These are a few numbers that you just typing.
+
+Now, this Excel sheet right now it is saved in Ram until I close it and save it.
+
+So once you close it, for example, let's say you close it will ask you, hey, where do you want to
+
+save this file?
+
+I could go into the more option and say, You know what, save it on my desktop and name it whatever
+
+that you want, and then you click on Save.
+
+Now that spreadsheet is actually saved on your hard disk.
+
+If you want to reopen it, it will reopen.
+
+And while it is open, it will remain in memory.
+
+Also, you as I said, you could actually switch between different applications.
+
+For example, like we have these applications that are open right now.
+
+So I have PowerPoint, I have Microsoft, Firefox, so Mozilla, Firefox, some other applications.
+
+These are all the applications that I have open and running in my computer.
+
+And right now they are in my Ram.
+
+That is why it is so important for Ram as you could switch between any of these applications and it
+
+comes right up.
+
+See, that's what the beauty of Ram.
+
+If you did not have a Ram and you are storing everything from disk, it will take a lot longer to perform
+
+certain functions on your computer and your CPU will have a lot of trouble accessing that information
+
+to compute.
+
+So when you go and buy a computer for yourself, make sure it has enough memory to run certain tasks.
+
+All right.
+
+Another thing that you could do is you could check the performance of your Ram by looking at your computer.
+
+So I am using Windows Computer.
+
+So in Windows, when you go to your taskbar right here, I have a taskbar right here and you right click
+
+on your taskbar and click on Task Manager.
+
+Okay, this is going to open up this task manager window and here go to performance and you will notice
+
+here is the CPU and here's the memory.
+
+So if you go to memory, you will notice.
+
+That I have total of 25.6GB of memory available and in use right now is only six gig.
+
+It means that I have a lot of memory that I could use for my computer.
+
+So as you can see, the memory usage, it's very low that is in use.
+
+But if you see a spike right here that's hitting 32 giga memory, which I have right here, then it
+
+means you need more memory for your computer and your programs or your functions that you're running
+
+on.
+
+Your computer will be very slow.

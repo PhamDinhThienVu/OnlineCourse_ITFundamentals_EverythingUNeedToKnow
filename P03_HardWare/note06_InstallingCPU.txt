@@ -1,0 +1,139 @@
+Hello again.
+
+In this video we are going to look at our CPU, a CPU.
+
+We know it's a brain of our computer.
+
+We're going to open up our computer and we're going to see how a CPU looks like, how we could replace
+
+it and where exactly it can be found on your motherboard.
+
+I am using my same HP computer and I'm going to turn this around and zoom in.
+
+So this way you will have a better look inside of my computer.
+
+Okay, so if you look at this computer, you're going to notice or if you open up your own computer,
+
+you're going to notice anything that is a little bigger.
+
+And it is looks metallic more and it has a fan attached to it.
+
+This is not a CPU.
+
+A lot of people confuse that with the CPU.
+
+It's basically a fan which actually sits on top of your CPU to make your computer cool, so you would
+
+have to remove this.
+
+There are usually screws on top and those screws actually go all the way in to your motherboard.
+
+You have to unscrew it again before you touch anything.
+
+Make sure you wear your static band.
+
+You make sure your your power cable is unplugged.
+
+So I have already loosened up these screws.
+
+So one screw is still holding on, so I'm going to unscrew this.
+
+Okay.
+
+You see, once I unscrew it, this thing comes off.
+
+And if you turn it around, see this metal piece right here?
+
+This actually sits on top of our chip, which is the CPU.
+
+And it has this little fan right here, which keeps your computer cool.
+
+And it has this wire attached to your motherboard.
+
+If I take this wire out, it's now going to run.
+
+Of course, that's where it's getting its electricity.
+
+Okay.
+
+Anyway, let me put this right here and let's go and look at our CPU.
+
+Okay.
+
+So let's zoom in a little more.
+
+So as you notice, I have two sockets in my computer.
+
+One socket is right here, which has no CPU chip and the other socket is right here, which actually
+
+has one CPU.
+
+So my computer only has one CPU and I do have the option to upgrade to two CPU if I want to.
+
+So let's first look at the one that does not have a CPU.
+
+It has this little handle right here and you have to push this handle back so it could open up.
+
+And this thing has a little door that you could slide on the left.
+
+And you pull this opening, pull this plastic piece out.
+
+You see, this is just an insert, just a plastic placeholder.
+
+So as you open this, you're going to see all those little chips up here.
+
+And the circuits actually, that's where you actually put in your CPU.
+
+And then once it's installed, you close the door again and you close that little handle to keep it
+
+tight against the motherboard.
+
+Now, coming to the one that we have a CPU, let's open up the same way.
+
+Okay, let's open the door and let's take our CPU out.
+
+See, right here, this is actually the CPU and mine is a single core CPU.
+
+So this is how it looks like.
+
+And you see it has this plastic thing or a paper smudges on top.
+
+This is where our CPUs sorry, our fan sits on to keep it cool.
+
+To install it or to replace it Again, this one has a little guide.
+
+These grooves here, these little grooves right up here and at the bottom.
+
+This will allow you to put them in to the right place without incorrectly inserting this way or that
+
+way.
+
+So let's put them in.
+
+Okay.
+
+Close the door.
+
+And put the handle back on the arm it has, which holds the CPU tight.
+
+Then you could simply put the fan back on.
+
+By the way, when you actually going to buy a new CPU, you'll have to get that fan.
+
+Most likely it will come with the fan.
+
+If you are putting a whole new CPU on the socket right here.
+
+Anyway, this is all about the CPU.
+
+Again, please remember CPU is the brain of the computer.
+
+It has to.
+
+It performs one of the main functions on your computer.
+
+And this video was to show you how we could replace or find a CPU in our computer.
+
+All right.
+
+See you in the next lecture.

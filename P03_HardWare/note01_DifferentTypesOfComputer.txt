@@ -1,0 +1,155 @@
+Hey beautiful people, you are getting into it and it is very important for you to understand what are
+
+the different type of computers that are out there which you have to deal with.
+
+The very first computer is the first personal computer.
+
+PC In 1981, IBM introduced its first personal computer and they called it as IBM.
+
+PC It is mostly for personal or individual use.
+
+It is best for internet surfing, running small applications and playing games.
+
+You can run Windows Linux or Mac as an operating system on your personal computers.
+
+So then we have a desktops.
+
+Basically, desktop is the same as PC, but when you take that PC and you put it on top of your desk,
+
+it becomes a desktop.
+
+Yes, it's that simple.
+
+Then we have a laptop.
+
+Similarly like desktop, you put on desk laptops actually go on top of your lap.
+
+It is very convenient, very mobile.
+
+You could take the laptop with you wherever you go and all you have to do is simply open up the laptop,
+
+put it on your lap and perform any functions that you want.
+
+A computer can offer.
+
+Once again, desktop and laptops.
+
+They are both personal computers.
+
+All right, then we have the workstations.
+
+A workstation is simply a desktop computer that has more powerful processor, additional memory, high
+
+end graphics adapters and an enhanced capability for performing high end tasks.
+
+Nowadays, these workstations are actually come in a desktop kind of form or a laptop.
+
+Typically, big companies or corporate companies buy these workstations for their employees.
+
+All right, then we have notebooks.
+
+They are pretty much same as laptop.
+
+However, notebooks are generally manufactured to be sleeker.
+
+Smaller computer with screen sizes of 15in or less, typically weighing less than £5 and measuring less
+
+than three inches.
+
+Thick.
+
+Notebooks keep their supreme lightweight portability advantage over laptops.
+
+Now, if you are in a business of traveling where you have to travel a lot, then notebooks are the
+
+best suited fit for you.
+
+So you don't have to carry heavy weight computers with you.
+
+All right.
+
+So next one is the mobile handheld or computers.
+
+PDA stands for Personal digital Assistant.
+
+Now, if you remember a few years ago, we had those personal or PDA computers that were used to schedule
+
+meetings or calls and very limited functionality.
+
+But now these handheld devices is like computer on its own where you could actually connect to the Internet
+
+and do or perform a lot of functions.
+
+A handheld computer is a portable computer that is small enough to be held in one's hand.
+
+Example of handheld computers are like smartphones, tablets, iPads and many other devices.
+
+These computers are mostly used for very small applications.
+
+All right.
+
+Moving on to this server server is the term that you will learn as soon as you get into the corporate
+
+world or you get a job in it.
+
+Okay.
+
+Let's understand what a server is.
+
+In computer world, there is a client and there is a server computer, a client computer.
+
+When it sends a request, server serves that request.
+
+So.
+
+As an example, like a web server, let's say if you go to dub, dub, dub, dot, Google.com, so your
+
+computer in that case is a client and the computer, the Google computer, where it's going to connect.
+
+That's a server.
+
+Same thing.
+
+If you're connecting your computer to a database, your computer is a client.
+
+The database where that database is running is a server.
+
+Server usually have powerful processes, a lot of memory and large hard drives.
+
+Typically, a server is racked horizontally on a computer shelf at a data center.
+
+Some of the big manufacturers of servers are like HP, Dell, Cisco, IBM and few others.
+
+All right, then we have mainframes.
+
+Now.
+
+In the early days of computing, mainframes were huge computers that could fill in an entire room or
+
+even a whole floor.
+
+Yes, but as a computing power increases and computers, the mainframe became more like a server.
+
+So nowadays, since the real estate is very important, these servers that mainframes that used to compute
+
+a large amount of computations now that little computers are the servers that you have nowadays can
+
+perform the same functionality as the mainframe.
+
+All right, then we have a supercomputer.
+
+This type of computer usually costs hundreds of thousands or even millions of dollars, although some
+
+microcomputers are single computer systems just like one single server.
+
+Most are composed of multi high performance computers working in parallel in a single system.
+
+So you could stack a few computers together or join a few servers together to perform one single function
+
+that becomes like a supercomputer.
+
+So anyway, in this last slide, pay close attention definitely to the servers.
+
+Servers are the ones that you're going to be working with in corporate IT when you're troubleshooting
+
+or when you are managing these computers.
