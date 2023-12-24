@@ -1,0 +1,81 @@
+Hello, boys and girls.
+
+In this video, we are going to learn the most common computer connection that's been used lately to
+
+connect other devices to a computer, and that is USB USB stands for universal serial bus and often
+
+referred as plug and play.
+
+The reason it is known as plug and play is because all you have to do is plug the cable to the port
+
+and start working as using the device that you want to have connected with your computer.
+
+So, as per Wikipedia, USB is an industry standard that establishes a specification for cable connectors
+
+and protocols for connections, communication and power supply, interfacing between computers, peripherals
+
+and other computers.
+
+Now, in simple words, a USB connection is a standard connection between a personal computer, which
+
+is your laptop or your desktop, and most of the other consumer electronic devices such as mouse keyboard,
+
+speakers, storage, flash drives, printers, and many, many other peripheral devices that you wired
+
+to connect to your computer.
+
+So that is the standard that that's given.
+
+Before that, there were so many different cables that were used with so many different devices.
+
+If you wanted to connect keyboard, you would have to use a keyboard cable for a mouse.
+
+It was different for printers, for flash drives, any external drives that you wanted to connect to
+
+a computer.
+
+You have to use different cables with your computer age.
+
+But who was the main brain behind this technology?
+
+Work, together with many tech companies and developed as USB.
+
+In 1996, it has replaced interfaces and many other interfaces, such as serial ports and parallel ports.
+
+And once again, these ports were the different ports that came with the different devices.
+
+So if you if you're using Device A, you have to use its own cable or its own port.
+
+All right.
+
+One of the advantages of U.S. be connected devices is that the software driver is automatically installed
+
+on your PC when connected.
+
+Yes, that is the beauty.
+
+Meaning if you have a, for example, a keyboard and you are wired to connect to your computer, then
+
+when you connect to it automatically, it detects it installed as driver and it starts running right
+
+away.
+
+Same thing.
+
+If you have a third party electronic device and you connect to it, you do not have to install it software
+
+or driver.
+
+That is why, once again, it is called plug and play, and I'm sure everyone has seen how it looks
+
+like just to refresh your memory.
+
+The port on your computer, your PC will look like this, and the cable that you would need both ends
+
+are the same.
+
+You would need that to connect to your port.
+
+So that's what a USB device is used.
+
+It was a revolutionary invention that has changed the technology completely.

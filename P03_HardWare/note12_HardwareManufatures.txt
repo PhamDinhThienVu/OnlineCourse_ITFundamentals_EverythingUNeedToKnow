@@ -1,0 +1,131 @@
+Hello, everyone, and welcome back.
+
+We have a good understanding of computer hardware, so I think it's time we should also know and learn
+
+about hardware vendors and people or the companies that actually manufactures that hardware.
+
+And the number one in line we have is Dell, EMC.
+
+Dell is an American multinational computer technology company that develops, sells repairs and support
+
+computers and related products and services.
+
+It was founded by Dell Michael Dell in 1984.
+
+Dell also acquired EMC, which was the storage company in 2000 2015.
+
+A lot of our computers, workstations or laptops, they are also manufactured by Dell or HP.
+
+But most of the computers that we see on the computer, on the corporate world, the servers, the stackable
+
+servers are manufactured by Dell.
+
+Then comes in HP.
+
+HP stands for Hewlett-Packard.
+
+It's an American multinational company headquartered in Palo Alto, California, that developed and
+
+provided a wide variety of hardware components.
+
+It merged with Compaq in 2002, and it was founded by David Packard, Bill Hewlett, in 1939.
+
+That's why Hewlett, the last name of Bill and the last name of David Packard, they combine the last
+
+names and created the company.
+
+Hewlett Packard.
+
+A lot of our servers in corporate world are actually manufactured by Hewlett Packard.
+
+Then comes in the IBM.
+
+IBM stands for International Business Machines Corporation, and it's American multinational company
+
+headquartered in Armonk, New York, with Operation over 170 countries.
+
+It was founded by Charles Ranlett Flint in 1911.
+
+So IBM is one of the oldest computer companies in the world.
+
+Okay, then we have the next one in line is Cisco.
+
+Cisco Systems, Inc. is an American multinational technology company headquartered in San Jose, California.
+
+In the center of Silicon Valley, Cisco develops manufactures and sells networking, mainly networking
+
+and then computer compute hardware, software, telecommunication, computer equipment and other high
+
+technology services and products.
+
+So whenever you hear the word Cisco, you always think of networking devices like switches and routers
+
+and firewalls.
+
+But now Cisco has entered into the computer, the compute hardware or building the compute for corporate
+
+world.
+
+Okay, moving on.
+
+Sorry I missed the last.
+
+It was founded by Sandy Lerner and Leonard Bosack in 1984.
+
+Okay.
+
+Now moving on to Oracle.
+
+It's again American Multinational Computer Technology Corporation, headquartered in Austin, Texas.
+
+Oracle acquired Sun Microsystems in 2009, and it was founded by Larry Ellison, Bob Miner and Ed Oates
+
+in 1977.
+
+Sun Microsystems is another hardware company that actually manufactures own hardware, and it has its
+
+own operating system, which was Solaris.
+
+They run on Sparc initially, and now they also run on 64 bit operating systems.
+
+Then next in line, Lenovo, Lenovo Group Limited, often shortened to Lenovo, is a Chinese multinational
+
+technology company incorporated in Hong Kong, and it was founded by Liu Chuanzhi in 1984.
+
+Hopefully I'm pronouncing it right, then comes in Hitachi.
+
+Hitachi Limited is a Japanese multinational company headquartered in Chiyoda Chiyoda, Tokyo, Japan,
+
+founded by Namihei Odaira in 1910, Hitachi is also very much involved and has one of the biggest share
+
+in storage market.
+
+Then we have Intel.
+
+Intel Corporation is an American multinational corporation and technology company headquartered in Santa
+
+California, Santa Carla, California.
+
+It was founded by Gordon Moore and Robert Noyce in 1968.
+
+Not only the hold, the biggest share in market, we know that Intel chips are very famous, but they
+
+have started manufacturing high end servers as well.
+
+So in corporate world, we do see a lot of computers, servers that are manufactured by Intel.
+
+Anyway, please keep these companies in mind.
+
+Once you entered the IT world, you will have to know these companies.
+
+What kind of hardware do they manufactures?
+
+What is the hardware models and series that they have in certain years and what do they have as a current
+
+models?
+
+What kind of power they come with.
+
+So you're going to be dealing with a lot when you when it comes down to purchasing or getting your hardware
+
+requirement and resource requirement.

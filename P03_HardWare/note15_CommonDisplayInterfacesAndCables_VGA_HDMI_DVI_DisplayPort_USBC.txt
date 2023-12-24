@@ -1,0 +1,299 @@
+Hello, ladies and gentlemen.
+
+In this video, we're going to talk about the most common display interfaces or cables that are used
+
+to connect your computer to a monitor.
+
+There are six display interfaces that we are going to talk about.
+
+That's the most common one.
+
+There are a lot more, I'm sure, but the ones that you should really need to know that concerns you
+
+for this course are as follow.
+
+The first one is VGA and then HDMI, DVI, DisplayPort, USB-C, Dash AC and Thunderbolt port or cable.
+
+That will cover them one by one.
+
+So the very first one will go away is the VGA.
+
+VGA stands for video graphics array.
+
+It is an analog interface between a PC and a monitor that was widely used prior to DVI, HDMI and DisplayPort.
+
+VGA was introduced on the IBM PSA Dash two platform in 1987.
+
+It was a common to see VGA connectors on televisions, laptop computer monitors, projectors and other
+
+devices.
+
+VGA port or cable only carries visual meaning.
+
+VIDEO Another source needs to be connected for audio signals.
+
+Yes, that one cable of the VGA that you see does not carry audio with it.
+
+You would have to connect separate cable for it.
+
+So here is the port that you, I'm sure, very familiar with and have seen with many of the computer
+
+that are older computers that comes with this type of port.
+
+Now this port is a 15 pin female sub port.
+
+That's what it's called.
+
+It has 15 pin holds.
+
+The shape ensures that VGA cables will only fit one way round, and it is often colored blue or black.
+
+Yes, so you're not going to make a mistake and you're not going to bend the pen.
+
+If the first are rounded or D-shaped is not fitting on the port correctly.
+
+Now, as for the port, sorry for the cable, though.
+
+See right here.
+
+The cable is also a 15 pin mailed support.
+
+These one are the actual pens that goes inside the hold off, the support, the computer unit or your
+
+PC, and the monitor bolts should have female ports in order to use this cable.
+
+Now, once again, this cable only carry video and does not carry audio.
+
+HDMI HDMI stands for high definition multimedia interface and is the most frequently used high definition
+
+signal for transferring both HD audio and video over a single cable.
+
+The HDMI is mostly found on TVs, video projectors, PC monitors, DVD, Blu ray, Ultra HD players,
+
+cable satellite boxes and so many other devices.
+
+I am sure you pick up any device in your home, and most likely you will find the HDMI port on it.
+
+HDMI is a much better than VGA.
+
+For some reason, and one of them is not only is HDMI cable capable of transferring more data, it also
+
+carries audio.
+
+Yes, with VGA.
+
+That's not possible.
+
+You got to have a second cable now.
+
+This is a how the port looks like on your device.
+
+And here is the cable.
+
+Both ends are the same.
+
+It doesn't matter which end goes on, which device, then comes mini and micro HDMI.
+
+There are three types of HDMI standard is called Type-A, which we have already talked about.
+
+Many is called Type-C HDMI.
+
+Mostly found on cameras, camcorders and tablets.
+
+And then micro, which is a lot smaller than standard and many.
+
+And that is Type D mostly found on compact mobile devices such as smartphones and looking at the picture
+
+of the ports.
+
+The middle one is this type, a standard port.
+
+The top one, as many end up bottom one is micro HDMI, and these are the different cables that you
+
+would need to connect from on all these different ports.
+
+Now, probably you have a regular port on your device and on the other end of the device, you have
+
+a smaller port.
+
+For that, you could use adapter, a connect adapter, which could translate from smaller to the standard
+
+types.
+
+Moving on to DVI stands for digital visual interface.
+
+It is a video display interface developed by Digital Display Working Group and Didi WG.
+
+It is used to connect a video source such as a video display controller to a display device such as
+
+a computer monitor.
+
+It was developed with the intention of creating an industry standard for the transfer of digital video
+
+content.
+
+DVR connection is starting to die out now because newer technology has taken over, such as HDMI digital
+
+port that will cover later on.
+
+Although it is still on every graphic graphics card, the video signal is basically the same as HDMI
+
+just without the audio same problem.
+
+Just like VGA, single link divide connectors have 19 pence and dual link DVD connectors have twenty
+
+five pins.
+
+Of course, the more depends the higher band and the resolution, and this is how HD DVD connectors
+
+look like.
+
+And these are the cables.
+
+Then, just like HDMI, it has many and micro devices, ports and cables as well.
+
+Three types standard many and micro, and that's how many DVI and micro DVI ports looks like on your
+
+computer.
+
+By the way, don't focus too much on DVI.
+
+As I said, it is a going away.
+
+Obsolete technology now.
+
+All right, then we have DisplayPort.
+
+All right.
+
+The interface is primarily used to connect a video source to a display device such as a computer monitor,
+
+and it can also carry audio, USB and other forms of data.
+
+DisplayPort were designed to replace VGA and DVI.
+
+The interface is backward compatible with other interfaces such as HDMI and DVI, using either active
+
+or passive adapters.
+
+Now here is the DVI looks like on your computer or your laptop.
+
+And here are the cable.
+
+Both look the same again, doesn't matter which end of the cable that you pick to connect to either
+
+side of your device.
+
+Now it has a Mini DisplayPort as well.
+
+Early versions of Mini DisplayPort can display the same maximum resolution as the original size DisplayPort.
+
+The reason we had the mini one so it could be used on a smaller sized device is a mobile device.
+
+But now the newer versions can carry more bandwidth and provide higher resolutions.
+
+So here if you look closely, if you have the latest laptop, you will see a port will look something
+
+like that.
+
+And here is the cable, smaller size cable or DisplayPort.
+
+And if you want to use the adapter, if you let's say if you have a computer that uses the regular standard
+
+DisplayPort, you can connect to one side of it with that cable adapter and the other side with the
+
+Mini DisplayPort.
+
+All right.
+
+Moving on to the USB-C, one of the fastest technology and the coolest one stands for universal serial
+
+bus type C, same as USB-C that we had or we have been using in our computers.
+
+But with the extension of Type-C, it is the most advanced technology that can be found on most of the
+
+newer laptops and mobile devices.
+
+If you have the most recent on the most newest computer laptop right now, I bet you you would have
+
+that port on your computer.
+
+Now, why do we use that?
+
+USB-C is relatively new connector for delivering data and power to and from computing devices.
+
+When you connect your mobile device to a USB-C computer, you can't transfer data, such as for video
+
+and audio files up to 10 gigabyte per second a lot faster.
+
+It is not like this the regular old, the USB.
+
+It is a lot faster now.
+
+USB 3.1 cables can deliver.
+
+4K Ultra HD video and audio from your laptop, phone to phone or tablet to your HDTV and monitor, those
+
+USB-C standards include both DisplayPort and HDMI.
+
+So you will want to either a USB-C to HDMI, DisplayPort, DisplayPort or if you have a very new monitor,
+
+USB-C to USB-C will be available, I am sure.
+
+So you don't need an adapter?
+
+It is only for those who has an older display, then you could use that adapter.
+
+Now here is what it looks like.
+
+Pay close attention if you have a laptop, in your words, a laptop or a computer, look at it and you
+
+will see it looks like a rounded, sheer, smaller USB port.
+
+The older USB-C, the regular USB port, is kind of like a square.
+
+This one is rounded edges.
+
+This is the cable that it comes with.
+
+It carries the data, the video, the charging a lot faster than a regular USP.
+
+Then comes the Thunderbolt.
+
+The Thunderbolt or Thunderbolt T ports looks like the same as USB-C ports on your computer, and the
+
+connector is physically the same from a plug in perspective.
+
+Thunderbolt three lets you transfer data up to 40 gig per second.
+
+That's a lot faster.
+
+That's twice as fast as the 20 gig per second maximum throughput speed for the fastest USB Type-C ports.
+
+Yes, USB-C port.
+
+The latest version can carry 20 gig, but the Thunderbolt carries 40 gigs, so you connected to transfer
+
+data a lot faster.
+
+The display is much clearer, the resolution is a lot higher, and the charging off your device is going
+
+to be a lot faster.
+
+So this is how it looks like on your computer port.
+
+Once again, this is same as USB-C Dash S. But if you look closely, you will see like a thundering
+
+arrow, which is referring to as Thunderbolt as a label on that port, which will tell you that it is
+
+four Thunderbolt charging or display.
+
+All right.
+
+So these were the few common display interfaces and cables that are being used nowadays.
+
+So you should definitely pay close attention to this last slide because most likely, you will be using
+
+and working with USB Type-C and Thunderbolt type of technology cables and interfaces.
+
+From now on.

@@ -1,0 +1,175 @@
+Hello and welcome back.
+
+Do you guys know the computer was built based on the comparison of a human body?
+
+Yes.
+
+Most of the things that we see in the computer are actually derived from our human functionality.
+
+The internal parts of our body.
+
+So let's take a quick look at what are the comparison or differences that we have in our body and to
+
+our computer.
+
+So right here we have a human body, and this is a regular computer.
+
+The very first common organs that we have between a human body and a computer is a long term memory.
+
+And in our head, the long term memory.
+
+And that is equal to a hard disk drive in a computer that retains a lot of information and it retains
+
+for a very long time.
+
+Then comes in the short term memory in our head again and in computers.
+
+We relate that to the Ram, which is a random access memory, and it keeps that information.
+
+As long as the computer is running, then the brain.
+
+Our brain is the main or critical part of our body that does a lot of computation calculation analysis.
+
+So same thing like that.
+
+The CPU is the brain of the computer.
+
+All right.
+
+Moving on.
+
+The soul.
+
+Our body is basically dead or is nothing without a soul.
+
+The soul that we have inside.
+
+So as soon as that soul leaves our body, we are dead.
+
+So just like that, the operating system that is running on the computer or installed on a hard disk
+
+that functions as a soul, which provides instructions to all the different parts of our body, then
+
+we have the backbone, which is the motherboard in our computer and the function of our backbone is
+
+to provide a mean of transportation, to communicate to the other components of our body or other body
+
+organs.
+
+Just like that.
+
+In the computers, the motherboard is used to communicate to all the components inside of the computer
+
+and then there is a heart.
+
+Now a lot of people think, Ah, take heart as a CPU, but it's not really a CPU.
+
+A heart is something that pumps the blood in your entire body.
+
+And in this case, in computer, you have to have that electric power in your computer so it could function
+
+and it could pass that electric or that power to other parts of the computer.
+
+All right.
+
+So then we have the body, the body which encapsulates or encase our internal organs.
+
+And in computer, we call it chassis.
+
+And a chassis is the one that actually has all the computer components inside of it.
+
+Okay, Moving on.
+
+Let's look at some of the sensors that we have.
+
+Five senses of human and we know it's a sight.
+
+I mean, we use our eyes for that sense.
+
+Then we have sound or hearing and we use our ears.
+
+Then we have touch.
+
+And any time we touch either from our feet, from our hands or from any part from our body, that is
+
+a sense.
+
+And we could feel that something is being touched.
+
+Then the smell, how we could smell, if it is something good, food or the smell of roses is through
+
+our nose.
+
+And then the taste.
+
+The taste is that comes from the tongue.
+
+Every time we eat something, we know how good a food taste.
+
+If something tastes bad, we spit it out.
+
+So these are the main five senses that we have in human body.
+
+Now, comparing to the computer, the sight or the eyes of a computer can be a keyboard, but because
+
+you pass the instructions, type the instructions on a keyboard and passes on to your computer, or
+
+you have a webcam, your webcam sees the person or webcam sees the instructions and it pass it down
+
+to the operating system, and operating system passes it down to the CPU or memory and so on.
+
+Just like that, we also have sensors.
+
+Sensors are the ones that actually kicks a computer or activates certain functionality of a computer.
+
+So that is also considered as part of a sight sense for a computer.
+
+Then comes the sound or ears.
+
+What are the sound or ears of a computer?
+
+Well, we have a headset that has a mic or an individual mic that we could actually talk to.
+
+Nowadays, what are the ears of modern computer?
+
+Well, we have Siri.
+
+We have Alexa from Amazon, we have Google.
+
+So these are all the things when we when we talk to these devices, we says, hey, Alexa, what's the
+
+temperature today?
+
+Alexa is a tiny device that's listening to instruction.
+
+As soon as you say, Hey, Alexa, so that is pass it down to its memory and to its CPU to process it.
+
+So that's the newer sense that I would say in a computer and we have touch for the touch.
+
+We have a mouse, we use mouse to move around our cursor.
+
+We also have a touch screen we could use to point.
+
+We could also use a pen, a touch pen.
+
+So these are the different peripherals that are available to us as that performs the function of a touch.
+
+Then comes in nose.
+
+Sorry, smell and taste.
+
+These two are yet to be discovered, but some people say that the artificial intelligence or the virtual
+
+reality are the ones that actually going to take over these two senses and the computer will become
+
+pretty much the same.
+
+We'll have all five senses that we have in a human body.
+
+So anyway, this is the lecture I wanted to cover, so you will know and you could compare ourselves
+
+what's inside of our body to a computer.
+
+So when you are troubleshooting or when you are trying to explain something in layman's terms, you
+
+will know how an each computer component works as compared to a human body.

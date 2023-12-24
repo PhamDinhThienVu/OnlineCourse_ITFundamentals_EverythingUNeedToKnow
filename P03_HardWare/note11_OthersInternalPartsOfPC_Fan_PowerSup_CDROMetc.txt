@@ -1,0 +1,61 @@
+Hello, boys and girls.
+
+And welcome back.
+
+In this video, we are going to cover the external components of a computer.
+
+I am sure many of you already know this.
+
+What are the things that are attached to your computer?
+
+But we will take a quick moment to go over this lecture.
+
+So we have our computer and very first thing that we usually see attached to this computer is a monitor.
+
+And monitor is the place where we will see exactly what's going on on the computer.
+
+Then we execute those commands, certain things that we wanted to run on the computer through our keyboard
+
+and mouse.
+
+These devices are the input devices that actually goes to the computer, tell the computer what to do,
+
+and then once the computer finish executing it, it throws that out on our monitor to see or verify
+
+it.
+
+Other type of input and output device that we have that we attached to our computer is the printer.
+
+So if you want to print a document, we could send that command or that instructions through our keyboard
+
+or mouse to our printer printer will print that document.
+
+Similarly, if you wanted to scan a copy of a document and we wanted to have a copy of that scan saved
+
+on our computer, that's going to be input coming in to the computer file.
+
+And also it has other functionality like scanner as well and photocopy and other stuff.
+
+Then there is another outside external component that is a webcam that's mostly used nowadays.
+
+A lot of people work virtually, so I'm sure every one of you have a virtual camera, a webcam, sorry,
+
+that you attach to your computer through USB and it actually captures your video.
+
+Then headphone.
+
+If you are using your computer heavily to talk to people, then you you would need a headphone with
+
+a mic.
+
+Then a lot of people who have less disk space on their computer, internal hard drive, then they attach
+
+an external disk drive and from some speakers, if you are not satisfied with the quality or how high
+
+your computer's speakers go, then you could attach an external speakers to your computer.
+
+And by the way, these external components of a computer are also called computer peripherals.
+
+So if someone is asking you, Hey, do you have this computer peripheral, please make sure they are
+
+telling you that this is a computer component that's outside of your computer.
